@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_maps.xml",
+        "source": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_gridview.xml",
+        "source": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\src\\main\\res\\layout\\activity_gridview.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_maps2.xml",
+        "source": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\src\\main\\res\\layout\\activity_maps2.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_hangout_places.xml",
+        "source": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\src\\main\\res\\layout\\activity_hangout_places.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_forgot_password.xml",
+        "source": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\src\\main\\res\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_fun_fact.xml",
+        "source": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\src\\main\\res\\layout\\activity_fun_fact.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\login_fragment.xml",
+        "source": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\src\\main\\res\\layout\\login_fragment.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\listlayout.xml",
+        "source": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\src\\main\\res\\layout\\listlayout.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_cities_grid.xml",
+        "source": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\src\\main\\res\\layout\\activity_cities_grid.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_monuments_places.xml",
+        "source": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\src\\main\\res\\layout\\activity_monuments_places.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_state_screeen.xml",
+        "source": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\src\\main\\res\\layout\\activity_state_screeen.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\signup_fragment.xml",
+        "source": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\src\\main\\res\\layout\\signup_fragment.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_city_selected.xml",
+        "source": "D:\\Downloads\\Programs\\fifthforce android\\Tourism\\app\\src\\main\\res\\layout\\activity_city_selected.xml"
+    }
+]
